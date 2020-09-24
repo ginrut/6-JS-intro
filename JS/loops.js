@@ -73,12 +73,15 @@ const iki = 11;
 //     console.log(i);
 // }
 
+// console.clear();
+
+// const taxt = 'labas';
+// let atbulas = '';
+
+// for (let i = 0, i < text.length; i++) {
+//     console.log(text[i]);
+    
+// }
+
 console.clear();
 
-const taxt = 'labas';
-let atbulas = '';
-
-for (let i = 0, i < text.length; i++) {
-    console.log(text[i]);
-    
-}
