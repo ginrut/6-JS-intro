@@ -17,6 +17,7 @@ function bigNum(list) {
     if (currentListNumber > biggestNumber) {
         biggestNumber = currentListNumber }
     }
+    if(biggestNumber )
     return biggestNumber
 }
 
@@ -40,4 +41,5 @@ console.log(bigNum(`pomidoras`));
 // rezultatas: “Pateikta netinkamo tipo reikšmė.”
 // console.log( bigNum( [] ) );
 // rezultatas: “Pateiktas sąrašas negali būti tuščias.”
+
 
